@@ -1,0 +1,6 @@
+E:\Homework3\Homework3\bin\Debug\Homework3.exe.config
+E:\Homework3\Homework3\bin\Debug\Homework3.exe
+E:\Homework3\Homework3\bin\Debug\Homework3.pdb
+E:\Homework3\Homework3\obj\Debug\01. EvenOdd.csprojResolveAssemblyReference.cache
+E:\Homework3\Homework3\obj\Debug\Homework3.exe
+E:\Homework3\Homework3\obj\Debug\Homework3.pdb

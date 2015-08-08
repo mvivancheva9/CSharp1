@@ -1,0 +1,6 @@
+E:\Homework6\Problem13. BinaryToDecimal\bin\Debug\Problem13.BinaryToDecimal.exe.config
+E:\Homework6\Problem13. BinaryToDecimal\bin\Debug\Problem13.BinaryToDecimal.exe
+E:\Homework6\Problem13. BinaryToDecimal\bin\Debug\Problem13.BinaryToDecimal.pdb
+E:\Homework6\Problem13. BinaryToDecimal\obj\Debug\Problem13. BinaryToDecimal.csprojResolveAssemblyReference.cache
+E:\Homework6\Problem13. BinaryToDecimal\obj\Debug\Problem13.BinaryToDecimal.exe
+E:\Homework6\Problem13. BinaryToDecimal\obj\Debug\Problem13.BinaryToDecimal.pdb

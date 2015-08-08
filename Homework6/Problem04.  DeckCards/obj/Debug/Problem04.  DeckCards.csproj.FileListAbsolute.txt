@@ -1,0 +1,6 @@
+E:\Homework6\Problem04.  DeckCards\bin\Debug\Problem04.DeckCards.exe.config
+E:\Homework6\Problem04.  DeckCards\bin\Debug\Problem04.DeckCards.exe
+E:\Homework6\Problem04.  DeckCards\bin\Debug\Problem04.DeckCards.pdb
+E:\Homework6\Problem04.  DeckCards\obj\Debug\Problem04.  DeckCards.csprojResolveAssemblyReference.cache
+E:\Homework6\Problem04.  DeckCards\obj\Debug\Problem04.DeckCards.exe
+E:\Homework6\Problem04.  DeckCards\obj\Debug\Problem04.DeckCards.pdb

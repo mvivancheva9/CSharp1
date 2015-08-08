@@ -1,0 +1,6 @@
+D:\Programs\Homeworks\Homework2\13. Compare\bin\Debug\_13.Compare.exe.config
+D:\Programs\Homeworks\Homework2\13. Compare\bin\Debug\_13.Compare.exe
+D:\Programs\Homeworks\Homework2\13. Compare\bin\Debug\_13.Compare.pdb
+D:\Programs\Homeworks\Homework2\13. Compare\obj\Debug\13. Compare.csprojResolveAssemblyReference.cache
+D:\Programs\Homeworks\Homework2\13. Compare\obj\Debug\_13.Compare.exe
+D:\Programs\Homeworks\Homework2\13. Compare\obj\Debug\_13.Compare.pdb

@@ -1,0 +1,5 @@
+E:\Homework3\06. FourDigitNumber\bin\Debug\_06.FourDigitNumber.exe.config
+E:\Homework3\06. FourDigitNumber\bin\Debug\_06.FourDigitNumber.exe
+E:\Homework3\06. FourDigitNumber\bin\Debug\_06.FourDigitNumber.pdb
+E:\Homework3\06. FourDigitNumber\obj\Debug\_06.FourDigitNumber.exe
+E:\Homework3\06. FourDigitNumber\obj\Debug\_06.FourDigitNumber.pdb

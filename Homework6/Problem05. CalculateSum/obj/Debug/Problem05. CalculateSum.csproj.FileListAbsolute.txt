@@ -1,0 +1,6 @@
+E:\Homework6\Problem05. CalculateSum\bin\Debug\Problem05.CalculateSum.exe.config
+E:\Homework6\Problem05. CalculateSum\bin\Debug\Problem05.CalculateSum.exe
+E:\Homework6\Problem05. CalculateSum\bin\Debug\Problem05.CalculateSum.pdb
+E:\Homework6\Problem05. CalculateSum\obj\Debug\Problem05. CalculateSum.csprojResolveAssemblyReference.cache
+E:\Homework6\Problem05. CalculateSum\obj\Debug\Problem05.CalculateSum.exe
+E:\Homework6\Problem05. CalculateSum\obj\Debug\Problem05.CalculateSum.pdb

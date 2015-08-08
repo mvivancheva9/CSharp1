@@ -1,0 +1,5 @@
+E:\Homework6\Problem03. MinMax\bin\Debug\Problem03.MinMax.exe.config
+E:\Homework6\Problem03. MinMax\bin\Debug\Problem03.MinMax.exe
+E:\Homework6\Problem03. MinMax\bin\Debug\Problem03.MinMax.pdb
+E:\Homework6\Problem03. MinMax\obj\Debug\Problem03.MinMax.exe
+E:\Homework6\Problem03. MinMax\obj\Debug\Problem03.MinMax.pdb

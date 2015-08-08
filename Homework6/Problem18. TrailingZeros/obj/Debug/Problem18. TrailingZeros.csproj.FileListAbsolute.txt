@@ -1,0 +1,6 @@
+E:\Homework6\Problem18. TrailingZeros\bin\Debug\Problem18.TrailingZeros.exe.config
+E:\Homework6\Problem18. TrailingZeros\bin\Debug\Problem18.TrailingZeros.exe
+E:\Homework6\Problem18. TrailingZeros\bin\Debug\Problem18.TrailingZeros.pdb
+E:\Homework6\Problem18. TrailingZeros\obj\Debug\Problem18. TrailingZeros.csprojResolveAssemblyReference.cache
+E:\Homework6\Problem18. TrailingZeros\obj\Debug\Problem18.TrailingZeros.exe
+E:\Homework6\Problem18. TrailingZeros\obj\Debug\Problem18.TrailingZeros.pdb

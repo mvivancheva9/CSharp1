@@ -1,0 +1,5 @@
+D:\Programs\Homework1\HelloCSharp\PrintSequence\bin\Debug\PrintSequence.exe.config
+D:\Programs\Homework1\HelloCSharp\PrintSequence\bin\Debug\PrintSequence.exe
+D:\Programs\Homework1\HelloCSharp\PrintSequence\bin\Debug\PrintSequence.pdb
+D:\Programs\Homework1\HelloCSharp\PrintSequence\obj\Debug\PrintSequence.exe
+D:\Programs\Homework1\HelloCSharp\PrintSequence\obj\Debug\PrintSequence.pdb

@@ -1,0 +1,5 @@
+E:\Homework3\04. Rectangles\bin\Debug\_04.Rectangles.exe.config
+E:\Homework3\04. Rectangles\bin\Debug\_04.Rectangles.exe
+E:\Homework3\04. Rectangles\bin\Debug\_04.Rectangles.pdb
+E:\Homework3\04. Rectangles\obj\Debug\_04.Rectangles.exe
+E:\Homework3\04. Rectangles\obj\Debug\_04.Rectangles.pdb

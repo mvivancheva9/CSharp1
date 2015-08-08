@@ -1,0 +1,8 @@
+D:\Programs\Homework1\HelloCSharp\Birthday\bin\Debug\Birthday.exe.config
+D:\Programs\Homework1\HelloCSharp\Birthday\bin\Debug\Birthday.exe
+D:\Programs\Homework1\HelloCSharp\Birthday\bin\Debug\Birthday.pdb
+D:\Programs\Homework1\HelloCSharp\Birthday\obj\Debug\Birthday.exe
+D:\Programs\Homework1\HelloCSharp\Birthday\obj\Debug\Birthday.pdb
+D:\Programs\Homeworks\Homework1\Birthday\bin\Debug\Birthday.exe.config
+D:\Programs\Homeworks\Homework1\Birthday\obj\Debug\Birthday.exe
+D:\Programs\Homeworks\Homework1\Birthday\obj\Debug\Birthday.pdb

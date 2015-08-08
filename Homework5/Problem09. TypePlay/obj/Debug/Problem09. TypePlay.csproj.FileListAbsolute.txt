@@ -1,0 +1,5 @@
+E:\Homework5\Problem09. TypePlay\bin\Debug\Problem09.TypePlay.exe.config
+E:\Homework5\Problem09. TypePlay\bin\Debug\Problem09.TypePlay.exe
+E:\Homework5\Problem09. TypePlay\bin\Debug\Problem09.TypePlay.pdb
+E:\Homework5\Problem09. TypePlay\obj\Debug\Problem09.TypePlay.exe
+E:\Homework5\Problem09. TypePlay\obj\Debug\Problem09.TypePlay.pdb

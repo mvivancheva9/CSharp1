@@ -1,0 +1,6 @@
+E:\Homework3\13. BitwisePositionCheck\bin\Debug\_13.BitwisePositionCheck.exe.config
+E:\Homework3\13. BitwisePositionCheck\bin\Debug\_13.BitwisePositionCheck.exe
+E:\Homework3\13. BitwisePositionCheck\bin\Debug\_13.BitwisePositionCheck.pdb
+E:\Homework3\13. BitwisePositionCheck\obj\Debug\13. BitwisePositionCheck.csprojResolveAssemblyReference.cache
+E:\Homework3\13. BitwisePositionCheck\obj\Debug\_13.BitwisePositionCheck.exe
+E:\Homework3\13. BitwisePositionCheck\obj\Debug\_13.BitwisePositionCheck.pdb

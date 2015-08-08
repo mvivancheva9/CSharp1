@@ -1,0 +1,5 @@
+E:\Homework3\08. Prime\bin\Debug\_08.Prime.exe.config
+E:\Homework3\08. Prime\bin\Debug\_08.Prime.exe
+E:\Homework3\08. Prime\bin\Debug\_08.Prime.pdb
+E:\Homework3\08. Prime\obj\Debug\_08.Prime.exe
+E:\Homework3\08. Prime\obj\Debug\_08.Prime.pdb

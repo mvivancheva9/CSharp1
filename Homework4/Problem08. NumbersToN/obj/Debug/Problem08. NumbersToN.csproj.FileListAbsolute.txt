@@ -1,0 +1,6 @@
+E:\Homework4\Problem08. NumbersToN\bin\Debug\Problem08.NumbersToN.exe.config
+E:\Homework4\Problem08. NumbersToN\bin\Debug\Problem08.NumbersToN.exe
+E:\Homework4\Problem08. NumbersToN\bin\Debug\Problem08.NumbersToN.pdb
+E:\Homework4\Problem08. NumbersToN\obj\Debug\Problem08. NumbersToN.csprojResolveAssemblyReference.cache
+E:\Homework4\Problem08. NumbersToN\obj\Debug\Problem08.NumbersToN.exe
+E:\Homework4\Problem08. NumbersToN\obj\Debug\Problem08.NumbersToN.pdb

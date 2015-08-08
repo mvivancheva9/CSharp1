@@ -1,0 +1,6 @@
+E:\Homework6\Problem16. DecimalToHexadecimal\bin\Debug\Problem16.DecimalToHexadecimal.exe.config
+E:\Homework6\Problem16. DecimalToHexadecimal\bin\Debug\Problem16.DecimalToHexadecimal.exe
+E:\Homework6\Problem16. DecimalToHexadecimal\bin\Debug\Problem16.DecimalToHexadecimal.pdb
+E:\Homework6\Problem16. DecimalToHexadecimal\obj\Debug\Problem16. DecimalToHexadecimal.csprojResolveAssemblyReference.cache
+E:\Homework6\Problem16. DecimalToHexadecimal\obj\Debug\Problem16.DecimalToHexadecimal.exe
+E:\Homework6\Problem16. DecimalToHexadecimal\obj\Debug\Problem16.DecimalToHexadecimal.pdb

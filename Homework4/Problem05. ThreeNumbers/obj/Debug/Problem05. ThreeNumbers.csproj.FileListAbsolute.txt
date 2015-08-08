@@ -1,0 +1,5 @@
+E:\Homework4\Problem05. ThreeNumbers\bin\Debug\Problem05.ThreeNumbers.exe.config
+E:\Homework4\Problem05. ThreeNumbers\bin\Debug\Problem05.ThreeNumbers.exe
+E:\Homework4\Problem05. ThreeNumbers\bin\Debug\Problem05.ThreeNumbers.pdb
+E:\Homework4\Problem05. ThreeNumbers\obj\Debug\Problem05.ThreeNumbers.exe
+E:\Homework4\Problem05. ThreeNumbers\obj\Debug\Problem05.ThreeNumbers.pdb

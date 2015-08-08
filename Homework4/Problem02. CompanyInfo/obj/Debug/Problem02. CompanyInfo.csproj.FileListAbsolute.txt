@@ -1,0 +1,5 @@
+E:\Homework4\Problem02. CompanyInfo\bin\Debug\Problem02.CompanyInfo.exe.config
+E:\Homework4\Problem02. CompanyInfo\bin\Debug\Problem02.CompanyInfo.exe
+E:\Homework4\Problem02. CompanyInfo\bin\Debug\Problem02.CompanyInfo.pdb
+E:\Homework4\Problem02. CompanyInfo\obj\Debug\Problem02.CompanyInfo.exe
+E:\Homework4\Problem02. CompanyInfo\obj\Debug\Problem02.CompanyInfo.pdb

@@ -1,0 +1,5 @@
+D:\Programs\Homeworks\Homework2\Problem2. DoubleFloat\bin\Debug\Problem2.DoubleFloat.exe.config
+D:\Programs\Homeworks\Homework2\Problem2. DoubleFloat\bin\Debug\Problem2.DoubleFloat.exe
+D:\Programs\Homeworks\Homework2\Problem2. DoubleFloat\bin\Debug\Problem2.DoubleFloat.pdb
+D:\Programs\Homeworks\Homework2\Problem2. DoubleFloat\obj\Debug\Problem2.DoubleFloat.exe
+D:\Programs\Homeworks\Homework2\Problem2. DoubleFloat\obj\Debug\Problem2.DoubleFloat.pdb

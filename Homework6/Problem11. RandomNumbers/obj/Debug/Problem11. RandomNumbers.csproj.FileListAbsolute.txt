@@ -1,0 +1,5 @@
+E:\Homework6\Problem11. RandomNumbers\bin\Debug\Problem11.RandomNumbers.exe.config
+E:\Homework6\Problem11. RandomNumbers\bin\Debug\Problem11.RandomNumbers.exe
+E:\Homework6\Problem11. RandomNumbers\bin\Debug\Problem11.RandomNumbers.pdb
+E:\Homework6\Problem11. RandomNumbers\obj\Debug\Problem11.RandomNumbers.exe
+E:\Homework6\Problem11. RandomNumbers\obj\Debug\Problem11.RandomNumbers.pdb

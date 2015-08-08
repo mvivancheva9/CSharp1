@@ -1,0 +1,5 @@
+D:\Programs\Homeworks\Homework2\Problem7. QuoteStrings\bin\Debug\Problem7.QuoteStrings.exe.config
+D:\Programs\Homeworks\Homework2\Problem7. QuoteStrings\bin\Debug\Problem7.QuoteStrings.exe
+D:\Programs\Homeworks\Homework2\Problem7. QuoteStrings\bin\Debug\Problem7.QuoteStrings.pdb
+D:\Programs\Homeworks\Homework2\Problem7. QuoteStrings\obj\Debug\Problem7.QuoteStrings.exe
+D:\Programs\Homeworks\Homework2\Problem7. QuoteStrings\obj\Debug\Problem7.QuoteStrings.pdb

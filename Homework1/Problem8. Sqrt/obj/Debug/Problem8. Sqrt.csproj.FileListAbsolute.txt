@@ -1,0 +1,5 @@
+D:\Programs\Homework1\HelloCSharp\Sqrt\bin\Debug\Sqrt.exe.config
+D:\Programs\Homework1\HelloCSharp\Sqrt\bin\Debug\Sqrt.exe
+D:\Programs\Homework1\HelloCSharp\Sqrt\bin\Debug\Sqrt.pdb
+D:\Programs\Homework1\HelloCSharp\Sqrt\obj\Debug\Sqrt.exe
+D:\Programs\Homework1\HelloCSharp\Sqrt\obj\Debug\Sqrt.pdb

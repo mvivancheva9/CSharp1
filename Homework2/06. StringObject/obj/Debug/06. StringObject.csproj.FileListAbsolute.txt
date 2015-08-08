@@ -1,0 +1,5 @@
+D:\Programs\Homeworks\Homework2\Problem6. StringObject\bin\Debug\Problem6.StringObject.exe.config
+D:\Programs\Homeworks\Homework2\Problem6. StringObject\obj\Debug\Problem6.StringObject.exe
+D:\Programs\Homeworks\Homework2\Problem6. StringObject\obj\Debug\Problem6.StringObject.pdb
+D:\Programs\Homeworks\Homework2\Problem6. StringObject\bin\Debug\Problem6.StringObject.exe
+D:\Programs\Homeworks\Homework2\Problem6. StringObject\bin\Debug\Problem6.StringObject.pdb

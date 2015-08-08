@@ -1,0 +1,5 @@
+E:\Homework5\Problem04. MultiplicationSign\bin\Debug\Problem04.MultiplicationSign.exe.config
+E:\Homework5\Problem04. MultiplicationSign\bin\Debug\Problem04.MultiplicationSign.exe
+E:\Homework5\Problem04. MultiplicationSign\bin\Debug\Problem04.MultiplicationSign.pdb
+E:\Homework5\Problem04. MultiplicationSign\obj\Debug\Problem04.MultiplicationSign.exe
+E:\Homework5\Problem04. MultiplicationSign\obj\Debug\Problem04.MultiplicationSign.pdb

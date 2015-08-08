@@ -1,0 +1,6 @@
+E:\Homework6\Problem10. OddEvenProduct\bin\Debug\Problem10.OddEvenProduct.exe.config
+E:\Homework6\Problem10. OddEvenProduct\bin\Debug\Problem10.OddEvenProduct.exe
+E:\Homework6\Problem10. OddEvenProduct\bin\Debug\Problem10.OddEvenProduct.pdb
+E:\Homework6\Problem10. OddEvenProduct\obj\Debug\Problem10. OddEvenProduct.csprojResolveAssemblyReference.cache
+E:\Homework6\Problem10. OddEvenProduct\obj\Debug\Problem10.OddEvenProduct.exe
+E:\Homework6\Problem10. OddEvenProduct\obj\Debug\Problem10.OddEvenProduct.pdb

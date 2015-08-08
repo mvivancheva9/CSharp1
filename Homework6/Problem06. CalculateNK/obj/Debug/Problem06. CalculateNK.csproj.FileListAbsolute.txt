@@ -1,0 +1,5 @@
+E:\Homework6\Problem06. CalculateNK\bin\Debug\Problem06.CalculateNK.exe.config
+E:\Homework6\Problem06. CalculateNK\bin\Debug\Problem06.CalculateNK.exe
+E:\Homework6\Problem06. CalculateNK\bin\Debug\Problem06.CalculateNK.pdb
+E:\Homework6\Problem06. CalculateNK\obj\Debug\Problem06.CalculateNK.exe
+E:\Homework6\Problem06. CalculateNK\obj\Debug\Problem06.CalculateNK.pdb

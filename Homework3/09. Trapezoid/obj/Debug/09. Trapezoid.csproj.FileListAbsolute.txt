@@ -1,0 +1,6 @@
+E:\Homework3\09. Trapezoid\bin\Debug\_09.Trapezoid.exe.config
+E:\Homework3\09. Trapezoid\bin\Debug\_09.Trapezoid.exe
+E:\Homework3\09. Trapezoid\bin\Debug\_09.Trapezoid.pdb
+E:\Homework3\09. Trapezoid\obj\Debug\09. Trapezoid.csprojResolveAssemblyReference.cache
+E:\Homework3\09. Trapezoid\obj\Debug\_09.Trapezoid.exe
+E:\Homework3\09. Trapezoid\obj\Debug\_09.Trapezoid.pdb

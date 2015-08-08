@@ -1,0 +1,6 @@
+D:\Programs\Homeworks\Homework2\Problem8. Triangle\bin\Debug\Problem8.Triangle.exe.config
+D:\Programs\Homeworks\Homework2\Problem8. Triangle\bin\Debug\Problem8.Triangle.exe
+D:\Programs\Homeworks\Homework2\Problem8. Triangle\bin\Debug\Problem8.Triangle.pdb
+D:\Programs\Homeworks\Homework2\Problem8. Triangle\obj\Debug\Problem8.Triangle.exe
+D:\Programs\Homeworks\Homework2\Problem8. Triangle\obj\Debug\Problem8.Triangle.pdb
+D:\Programs\Homeworks\Homework2\Problem8. Triangle\obj\Debug\Problem8. Triangle.csprojResolveAssemblyReference.cache

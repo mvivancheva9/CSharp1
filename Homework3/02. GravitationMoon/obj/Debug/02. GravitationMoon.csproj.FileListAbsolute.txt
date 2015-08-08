@@ -1,0 +1,5 @@
+E:\Homework3\02. GravitationMoon\bin\Debug\_02.GravitationMoon.exe.config
+E:\Homework3\02. GravitationMoon\bin\Debug\_02.GravitationMoon.exe
+E:\Homework3\02. GravitationMoon\bin\Debug\_02.GravitationMoon.pdb
+E:\Homework3\02. GravitationMoon\obj\Debug\_02.GravitationMoon.exe
+E:\Homework3\02. GravitationMoon\obj\Debug\_02.GravitationMoon.pdb

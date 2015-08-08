@@ -1,0 +1,5 @@
+D:\Programs\Homework1\HelloCSharp\PrtFirstLastName\bin\Debug\PrtFirstLastName.exe.config
+D:\Programs\Homework1\HelloCSharp\PrtFirstLastName\bin\Debug\PrtFirstLastName.exe
+D:\Programs\Homework1\HelloCSharp\PrtFirstLastName\bin\Debug\PrtFirstLastName.pdb
+D:\Programs\Homework1\HelloCSharp\PrtFirstLastName\obj\Debug\PrtFirstLastName.exe
+D:\Programs\Homework1\HelloCSharp\PrtFirstLastName\obj\Debug\PrtFirstLastName.pdb

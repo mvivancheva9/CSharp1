@@ -1,0 +1,5 @@
+E:\Homework5\Problem05. BiggestOfThreeNum\bin\Debug\Problem05.BiggestOfThreeNum.exe.config
+E:\Homework5\Problem05. BiggestOfThreeNum\bin\Debug\Problem05.BiggestOfThreeNum.exe
+E:\Homework5\Problem05. BiggestOfThreeNum\bin\Debug\Problem05.BiggestOfThreeNum.pdb
+E:\Homework5\Problem05. BiggestOfThreeNum\obj\Debug\Problem05.BiggestOfThreeNum.exe
+E:\Homework5\Problem05. BiggestOfThreeNum\obj\Debug\Problem05.BiggestOfThreeNum.pdb

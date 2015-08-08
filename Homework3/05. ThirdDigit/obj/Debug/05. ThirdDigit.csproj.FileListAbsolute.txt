@@ -1,0 +1,6 @@
+E:\Homework3\05. ThirdDigit\bin\Debug\_05.ThirdDigit.exe.config
+E:\Homework3\05. ThirdDigit\bin\Debug\_05.ThirdDigit.exe
+E:\Homework3\05. ThirdDigit\bin\Debug\_05.ThirdDigit.pdb
+E:\Homework3\05. ThirdDigit\obj\Debug\_05.ThirdDigit.exe
+E:\Homework3\05. ThirdDigit\obj\Debug\_05.ThirdDigit.pdb
+E:\Homework3\05. ThirdDigit\obj\Debug\05. ThirdDigit.csprojResolveAssemblyReference.cache

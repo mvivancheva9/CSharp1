@@ -1,0 +1,5 @@
+E:\Homework5\Problem02. BonusScore\bin\Debug\Problem02.BonusScore.exe.config
+E:\Homework5\Problem02. BonusScore\bin\Debug\Problem02.BonusScore.exe
+E:\Homework5\Problem02. BonusScore\bin\Debug\Problem02.BonusScore.pdb
+E:\Homework5\Problem02. BonusScore\obj\Debug\Problem02.BonusScore.exe
+E:\Homework5\Problem02. BonusScore\obj\Debug\Problem02.BonusScore.pdb

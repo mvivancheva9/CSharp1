@@ -1,0 +1,6 @@
+E:\Homework6\Problem09. Matrix\bin\Debug\Problem09.Matrix.exe.config
+E:\Homework6\Problem09. Matrix\bin\Debug\Problem09.Matrix.exe
+E:\Homework6\Problem09. Matrix\bin\Debug\Problem09.Matrix.pdb
+E:\Homework6\Problem09. Matrix\obj\Debug\Problem09. Matrix.csprojResolveAssemblyReference.cache
+E:\Homework6\Problem09. Matrix\obj\Debug\Problem09.Matrix.exe
+E:\Homework6\Problem09. Matrix\obj\Debug\Problem09.Matrix.pdb

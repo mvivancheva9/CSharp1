@@ -1,0 +1,5 @@
+D:\Programs\Homeworks\Homework2\Problem9. Exchange\bin\Debug\Problem9.Exchange.exe.config
+D:\Programs\Homeworks\Homework2\Problem9. Exchange\bin\Debug\Problem9.Exchange.exe
+D:\Programs\Homeworks\Homework2\Problem9. Exchange\bin\Debug\Problem9.Exchange.pdb
+D:\Programs\Homeworks\Homework2\Problem9. Exchange\obj\Debug\Problem9.Exchange.exe
+D:\Programs\Homeworks\Homework2\Problem9. Exchange\obj\Debug\Problem9.Exchange.pdb

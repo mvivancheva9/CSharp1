@@ -1,0 +1,5 @@
+E:\Homework3\14. ModifyBit\bin\Debug\_14.ModifyBit.exe.config
+E:\Homework3\14. ModifyBit\bin\Debug\_14.ModifyBit.exe
+E:\Homework3\14. ModifyBit\bin\Debug\_14.ModifyBit.pdb
+E:\Homework3\14. ModifyBit\obj\Debug\_14.ModifyBit.exe
+E:\Homework3\14. ModifyBit\obj\Debug\_14.ModifyBit.pdb

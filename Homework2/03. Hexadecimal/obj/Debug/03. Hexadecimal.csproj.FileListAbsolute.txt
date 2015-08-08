@@ -1,0 +1,5 @@
+D:\Programs\Homeworks\Homework2\Problem3. Hexadecimal\bin\Debug\Problem3.Hexadecimal.exe.config
+D:\Programs\Homeworks\Homework2\Problem3. Hexadecimal\obj\Debug\Problem3.Hexadecimal.exe
+D:\Programs\Homeworks\Homework2\Problem3. Hexadecimal\obj\Debug\Problem3.Hexadecimal.pdb
+D:\Programs\Homeworks\Homework2\Problem3. Hexadecimal\bin\Debug\Problem3.Hexadecimal.exe
+D:\Programs\Homeworks\Homework2\Problem3. Hexadecimal\bin\Debug\Problem3.Hexadecimal.pdb

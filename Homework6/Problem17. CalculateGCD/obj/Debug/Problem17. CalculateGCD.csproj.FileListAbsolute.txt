@@ -1,0 +1,6 @@
+E:\Homework6\Problem17. CalculateGCD\bin\Debug\Problem17.CalculateGCD.exe.config
+E:\Homework6\Problem17. CalculateGCD\obj\Debug\Problem17. CalculateGCD.csprojResolveAssemblyReference.cache
+E:\Homework6\Problem17. CalculateGCD\bin\Debug\Problem17.CalculateGCD.exe
+E:\Homework6\Problem17. CalculateGCD\bin\Debug\Problem17.CalculateGCD.pdb
+E:\Homework6\Problem17. CalculateGCD\obj\Debug\Problem17.CalculateGCD.exe
+E:\Homework6\Problem17. CalculateGCD\obj\Debug\Problem17.CalculateGCD.pdb

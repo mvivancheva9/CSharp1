@@ -1,0 +1,6 @@
+E:\Homework5\Problem10. BeerTime\bin\Debug\Problem10.BeerTime.exe.config
+E:\Homework5\Problem10. BeerTime\bin\Debug\Problem10.BeerTime.exe
+E:\Homework5\Problem10. BeerTime\bin\Debug\Problem10.BeerTime.pdb
+E:\Homework5\Problem10. BeerTime\obj\Debug\Problem10. BeerTime.csprojResolveAssemblyReference.cache
+E:\Homework5\Problem10. BeerTime\obj\Debug\Problem10.BeerTime.exe
+E:\Homework5\Problem10. BeerTime\obj\Debug\Problem10.BeerTime.pdb

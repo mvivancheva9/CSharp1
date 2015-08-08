@@ -1,0 +1,5 @@
+E:\Homework6\Problem02. NumbersNotDivisible\bin\Debug\Problem02.NumbersNotDivisible.exe.config
+E:\Homework6\Problem02. NumbersNotDivisible\bin\Debug\Problem02.NumbersNotDivisible.exe
+E:\Homework6\Problem02. NumbersNotDivisible\bin\Debug\Problem02.NumbersNotDivisible.pdb
+E:\Homework6\Problem02. NumbersNotDivisible\obj\Debug\Problem02.NumbersNotDivisible.exe
+E:\Homework6\Problem02. NumbersNotDivisible\obj\Debug\Problem02.NumbersNotDivisible.pdb

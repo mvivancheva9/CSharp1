@@ -1,0 +1,5 @@
+E:\Homework4\Problem07. Sum5Numbers\bin\Debug\Problem07.Sum5Numbers.exe.config
+E:\Homework4\Problem07. Sum5Numbers\bin\Debug\Problem07.Sum5Numbers.exe
+E:\Homework4\Problem07. Sum5Numbers\bin\Debug\Problem07.Sum5Numbers.pdb
+E:\Homework4\Problem07. Sum5Numbers\obj\Debug\Problem07.Sum5Numbers.exe
+E:\Homework4\Problem07. Sum5Numbers\obj\Debug\Problem07.Sum5Numbers.pdb

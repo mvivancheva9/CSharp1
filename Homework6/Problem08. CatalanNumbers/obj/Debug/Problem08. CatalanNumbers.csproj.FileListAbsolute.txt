@@ -1,0 +1,5 @@
+E:\Homework6\Problem08. CatalanNumbers\bin\Debug\Problem08.CatalanNumbers.exe.config
+E:\Homework6\Problem08. CatalanNumbers\bin\Debug\Problem08.CatalanNumbers.exe
+E:\Homework6\Problem08. CatalanNumbers\bin\Debug\Problem08.CatalanNumbers.pdb
+E:\Homework6\Problem08. CatalanNumbers\obj\Debug\Problem08.CatalanNumbers.exe
+E:\Homework6\Problem08. CatalanNumbers\obj\Debug\Problem08.CatalanNumbers.pdb

@@ -1,0 +1,5 @@
+E:\Homework5\Problem06. BiggestOfFiveNum\bin\Debug\Problem06.BiggestOfFiveNum.exe.config
+E:\Homework5\Problem06. BiggestOfFiveNum\bin\Debug\Problem06.BiggestOfFiveNum.exe
+E:\Homework5\Problem06. BiggestOfFiveNum\bin\Debug\Problem06.BiggestOfFiveNum.pdb
+E:\Homework5\Problem06. BiggestOfFiveNum\obj\Debug\Problem06.BiggestOfFiveNum.exe
+E:\Homework5\Problem06. BiggestOfFiveNum\obj\Debug\Problem06.BiggestOfFiveNum.pdb

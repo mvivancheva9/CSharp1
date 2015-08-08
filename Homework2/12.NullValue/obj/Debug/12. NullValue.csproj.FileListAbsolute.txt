@@ -1,0 +1,5 @@
+D:\Programs\Homeworks\Homework2\12.NullValue\bin\Debug\12.NullValue.exe.config
+D:\Programs\Homeworks\Homework2\12.NullValue\bin\Debug\12.NullValue.exe
+D:\Programs\Homeworks\Homework2\12.NullValue\bin\Debug\12.NullValue.pdb
+D:\Programs\Homeworks\Homework2\12.NullValue\obj\Debug\12.NullValue.exe
+D:\Programs\Homeworks\Homework2\12.NullValue\obj\Debug\12.NullValue.pdb

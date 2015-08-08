@@ -1,0 +1,5 @@
+E:\Homework5\Problem08. DigitAsWord\bin\Debug\Problem08.DigitAsWord.exe.config
+E:\Homework5\Problem08. DigitAsWord\bin\Debug\Problem08.DigitAsWord.exe
+E:\Homework5\Problem08. DigitAsWord\bin\Debug\Problem08.DigitAsWord.pdb
+E:\Homework5\Problem08. DigitAsWord\obj\Debug\Problem08.DigitAsWord.exe
+E:\Homework5\Problem08. DigitAsWord\obj\Debug\Problem08.DigitAsWord.pdb

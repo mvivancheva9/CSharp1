@@ -1,0 +1,9 @@
+1. Eclipse - Eclipse is mostly written in Java language and contains a base workspace and an extensible plug-in system. It is free, open source, and cross-platform software.
+
+2. NetBeans - NetBeans is an environment that can run on multiple operating systems, such as Windows, Mac OC, Linux. It is written in Java language. It is used for developing not only in Java, but in PHP, C/C++, and HTML5 as well.
+
+3. KDeveloper - It is free development environment that includes no compiler. Rather than that, it uses external compiler. KDevelop is written in C/C++ languages and supports C/C++, PHP, and Python development. It is an IDE for Linux, Mac OS X, etc.
+
+4. Xcode - Xcode is created for developing software for MAC OS X and iOS. Xcode can build universal binaries, which allow software to run on both PowerPC and Intel-based (x86) platforms and that can include both 32-bit and 64-bit code for both architectures. It also includes Apple's WebObjects tools and frameworks for building Java web applications and web services.
+
+5. CodeLite - CodeLite is an open source, free, cross platform IDE for the C/C++ programming languages which runs best on all major Platforms. It is using the wxWidgets tool-kit and is written in C++ language.

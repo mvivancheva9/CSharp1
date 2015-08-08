@@ -1,0 +1,6 @@
+D:\Programs\Homeworks\Homework2\10. EmployeeData\bin\Debug\_10.EmployeeData.exe.config
+D:\Programs\Homeworks\Homework2\10. EmployeeData\bin\Debug\_10.EmployeeData.exe
+D:\Programs\Homeworks\Homework2\10. EmployeeData\bin\Debug\_10.EmployeeData.pdb
+D:\Programs\Homeworks\Homework2\10. EmployeeData\obj\Debug\10. EmployeeData.csprojResolveAssemblyReference.cache
+D:\Programs\Homeworks\Homework2\10. EmployeeData\obj\Debug\_10.EmployeeData.exe
+D:\Programs\Homeworks\Homework2\10. EmployeeData\obj\Debug\_10.EmployeeData.pdb

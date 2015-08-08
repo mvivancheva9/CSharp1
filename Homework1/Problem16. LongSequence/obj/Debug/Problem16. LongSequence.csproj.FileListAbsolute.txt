@@ -1,0 +1,5 @@
+D:\Programs\Homework1\HelloCSharp\LongSequence\bin\Debug\LongSequence.exe.config
+D:\Programs\Homework1\HelloCSharp\LongSequence\bin\Debug\LongSequence.exe
+D:\Programs\Homework1\HelloCSharp\LongSequence\bin\Debug\LongSequence.pdb
+D:\Programs\Homework1\HelloCSharp\LongSequence\obj\Debug\LongSequence.exe
+D:\Programs\Homework1\HelloCSharp\LongSequence\obj\Debug\LongSequence.pdb

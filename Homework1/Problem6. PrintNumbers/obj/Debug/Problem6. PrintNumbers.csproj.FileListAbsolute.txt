@@ -1,0 +1,5 @@
+D:\Programs\Homework1\HelloCSharp\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+D:\Programs\Homework1\HelloCSharp\PrintNumbers\bin\Debug\PrintNumbers.exe
+D:\Programs\Homework1\HelloCSharp\PrintNumbers\bin\Debug\PrintNumbers.pdb
+D:\Programs\Homework1\HelloCSharp\PrintNumbers\obj\Debug\PrintNumbers.exe
+D:\Programs\Homework1\HelloCSharp\PrintNumbers\obj\Debug\PrintNumbers.pdb

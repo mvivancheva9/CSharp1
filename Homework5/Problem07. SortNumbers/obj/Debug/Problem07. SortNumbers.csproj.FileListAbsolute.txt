@@ -1,0 +1,6 @@
+E:\Homework5\Problem07. SortNumbers\bin\Debug\Problem07.SortNumbers.exe.config
+E:\Homework5\Problem07. SortNumbers\bin\Debug\Problem07.SortNumbers.exe
+E:\Homework5\Problem07. SortNumbers\bin\Debug\Problem07.SortNumbers.pdb
+E:\Homework5\Problem07. SortNumbers\obj\Debug\Problem07. SortNumbers.csprojResolveAssemblyReference.cache
+E:\Homework5\Problem07. SortNumbers\obj\Debug\Problem07.SortNumbers.exe
+E:\Homework5\Problem07. SortNumbers\obj\Debug\Problem07.SortNumbers.pdb

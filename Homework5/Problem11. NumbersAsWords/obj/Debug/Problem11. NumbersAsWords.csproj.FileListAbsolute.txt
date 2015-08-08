@@ -1,0 +1,6 @@
+E:\Homework5\Problem11. NumbersAsWords\bin\Debug\Problem11.NumbersAsWords.exe.config
+E:\Homework5\Problem11. NumbersAsWords\bin\Debug\Problem11.NumbersAsWords.exe
+E:\Homework5\Problem11. NumbersAsWords\bin\Debug\Problem11.NumbersAsWords.pdb
+E:\Homework5\Problem11. NumbersAsWords\obj\Debug\Problem11. NumbersAsWords.csprojResolveAssemblyReference.cache
+E:\Homework5\Problem11. NumbersAsWords\obj\Debug\Problem11.NumbersAsWords.exe
+E:\Homework5\Problem11. NumbersAsWords\obj\Debug\Problem11.NumbersAsWords.pdb

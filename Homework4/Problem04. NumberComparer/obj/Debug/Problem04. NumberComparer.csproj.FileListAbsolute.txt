@@ -1,0 +1,6 @@
+E:\Homework4\Problem04. NumberComparer\bin\Debug\Problem04.NumberComparer.exe.config
+E:\Homework4\Problem04. NumberComparer\bin\Debug\Problem04.NumberComparer.exe
+E:\Homework4\Problem04. NumberComparer\bin\Debug\Problem04.NumberComparer.pdb
+E:\Homework4\Problem04. NumberComparer\obj\Debug\Problem04. NumberComparer.csprojResolveAssemblyReference.cache
+E:\Homework4\Problem04. NumberComparer\obj\Debug\Problem04.NumberComparer.exe
+E:\Homework4\Problem04. NumberComparer\obj\Debug\Problem04.NumberComparer.pdb

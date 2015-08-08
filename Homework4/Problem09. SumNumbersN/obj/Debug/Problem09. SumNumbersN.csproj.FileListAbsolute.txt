@@ -1,0 +1,5 @@
+E:\Homework4\Problem09. SumNumbersN\bin\Debug\Problem09.SumNumbersN.exe.config
+E:\Homework4\Problem09. SumNumbersN\bin\Debug\Problem09.SumNumbersN.exe
+E:\Homework4\Problem09. SumNumbersN\bin\Debug\Problem09.SumNumbersN.pdb
+E:\Homework4\Problem09. SumNumbersN\obj\Debug\Problem09.SumNumbersN.exe
+E:\Homework4\Problem09. SumNumbersN\obj\Debug\Problem09.SumNumbersN.pdb

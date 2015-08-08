@@ -1,0 +1,5 @@
+D:\Programs\Homework1\HelloCSharp\Problem5. PrintYourName\bin\Debug\Problem5.PrintYourName.exe.config
+D:\Programs\Homework1\HelloCSharp\Problem5. PrintYourName\bin\Debug\Problem5.PrintYourName.exe
+D:\Programs\Homework1\HelloCSharp\Problem5. PrintYourName\bin\Debug\Problem5.PrintYourName.pdb
+D:\Programs\Homework1\HelloCSharp\Problem5. PrintYourName\obj\Debug\Problem5.PrintYourName.exe
+D:\Programs\Homework1\HelloCSharp\Problem5. PrintYourName\obj\Debug\Problem5.PrintYourName.pdb

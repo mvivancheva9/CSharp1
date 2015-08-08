@@ -1,0 +1,6 @@
+E:\Homework5\Problem01. ExchangeGreater\bin\Debug\Problem01.ExchangeGreater.exe.config
+E:\Homework5\Problem01. ExchangeGreater\bin\Debug\Problem01.ExchangeGreater.exe
+E:\Homework5\Problem01. ExchangeGreater\bin\Debug\Problem01.ExchangeGreater.pdb
+E:\Homework5\Problem01. ExchangeGreater\obj\Debug\Problem01. ExchangeGreater.csprojResolveAssemblyReference.cache
+E:\Homework5\Problem01. ExchangeGreater\obj\Debug\Problem01.ExchangeGreater.exe
+E:\Homework5\Problem01. ExchangeGreater\obj\Debug\Problem01.ExchangeGreater.pdb

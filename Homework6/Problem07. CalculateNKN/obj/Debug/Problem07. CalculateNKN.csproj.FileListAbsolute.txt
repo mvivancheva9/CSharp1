@@ -1,0 +1,5 @@
+E:\Homework6\Problem07. CalculateNKN\bin\Debug\Problem07.CalculateNKN.exe.config
+E:\Homework6\Problem07. CalculateNKN\bin\Debug\Problem07.CalculateNKN.exe
+E:\Homework6\Problem07. CalculateNKN\bin\Debug\Problem07.CalculateNKN.pdb
+E:\Homework6\Problem07. CalculateNKN\obj\Debug\Problem07.CalculateNKN.exe
+E:\Homework6\Problem07. CalculateNKN\obj\Debug\Problem07.CalculateNKN.pdb

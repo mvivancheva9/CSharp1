@@ -1,0 +1,6 @@
+E:\Homework6\Problem12. RandomizeNumbers\bin\Debug\Problem12.RandomizeNumbers.exe.config
+E:\Homework6\Problem12. RandomizeNumbers\bin\Debug\Problem12.RandomizeNumbers.exe
+E:\Homework6\Problem12. RandomizeNumbers\bin\Debug\Problem12.RandomizeNumbers.pdb
+E:\Homework6\Problem12. RandomizeNumbers\obj\Debug\Problem12.RandomizeNumbers.exe
+E:\Homework6\Problem12. RandomizeNumbers\obj\Debug\Problem12.RandomizeNumbers.pdb
+E:\Homework6\Problem12. RandomizeNumbers\obj\Debug\Problem12. RandomizeNumbers.csprojResolveAssemblyReference.cache

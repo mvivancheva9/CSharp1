@@ -1,0 +1,9 @@
+1. Java – One of the similarities between Java and C# is the fact that both of the languages are object-oriented. Another one is that both C# and Java are Type-Safe Languages, however there are some speculations that Java is not completely type-safe language. Of course, there are differences as well. One of the major dissimilarities between the two languages is the fact that Java is designed to run on any operating system. On the other hand, C# is limited to Microsoft platform. Even with the compilation to an intermediate language, C# is currently only supported on a few operating systems.
+
+2. C – C is an older programming language. It is a predecessor of the C# language and this is where one of the similarities between them comes from. C# syntactically carries forward a lot of what is used in C. However, as a newer language, C# is completely an object-oriented language, while C is not.
+
+3. C++ - C++ is a language that has features from both high-level and low-level languageg. As a consequence of this, one of the similarities between the two languages is the fact that they both are somehow object-oriented. One of the differences between the two languages lie in their performance. Applications built in C# may not perform as well when compared with native C++, since C# has an intrusive garbage collector.
+
+4. Objective-C - Objective-C is as C# an object-oriented language. However, syntactically they differ a lot.
+
+5. PHP - Depending on your needs PHP could be good enough (for web base applications) for high-end solutions, C# language is the better option.Apart from that, both of the languages have support for object-oriented programming.

@@ -1,0 +1,5 @@
+D:\Programs\Homeworks\Homework2\14. ASCII\bin\Debug\_14.ASCII.exe.config
+D:\Programs\Homeworks\Homework2\14. ASCII\bin\Debug\_14.ASCII.exe
+D:\Programs\Homeworks\Homework2\14. ASCII\bin\Debug\_14.ASCII.pdb
+D:\Programs\Homeworks\Homework2\14. ASCII\obj\Debug\_14.ASCII.exe
+D:\Programs\Homeworks\Homework2\14. ASCII\obj\Debug\_14.ASCII.pdb

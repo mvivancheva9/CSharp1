@@ -1,0 +1,5 @@
+D:\Programs\Homeworks\Homework2\Problem5. IsFemale\bin\Debug\Problem5.IsFemale.exe.config
+D:\Programs\Homeworks\Homework2\Problem5. IsFemale\bin\Debug\Problem5.IsFemale.exe
+D:\Programs\Homeworks\Homework2\Problem5. IsFemale\bin\Debug\Problem5.IsFemale.pdb
+D:\Programs\Homeworks\Homework2\Problem5. IsFemale\obj\Debug\Problem5.IsFemale.exe
+D:\Programs\Homeworks\Homework2\Problem5. IsFemale\obj\Debug\Problem5.IsFemale.pdb

@@ -1,0 +1,6 @@
+E:\Homework4\Problem06. QuadraticEquation\bin\Debug\Problem06.QuadraticEquation.exe.config
+E:\Homework4\Problem06. QuadraticEquation\bin\Debug\Problem06.QuadraticEquation.exe
+E:\Homework4\Problem06. QuadraticEquation\bin\Debug\Problem06.QuadraticEquation.pdb
+E:\Homework4\Problem06. QuadraticEquation\obj\Debug\Problem06. QuadraticEquation.csprojResolveAssemblyReference.cache
+E:\Homework4\Problem06. QuadraticEquation\obj\Debug\Problem06.QuadraticEquation.exe
+E:\Homework4\Problem06. QuadraticEquation\obj\Debug\Problem06.QuadraticEquation.pdb

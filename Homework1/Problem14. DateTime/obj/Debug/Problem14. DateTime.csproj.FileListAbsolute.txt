@@ -1,0 +1,5 @@
+D:\Programs\Homework1\HelloCSharp\DateTime\bin\Debug\DateTime.exe.config
+D:\Programs\Homework1\HelloCSharp\DateTime\bin\Debug\DateTime.exe
+D:\Programs\Homework1\HelloCSharp\DateTime\bin\Debug\DateTime.pdb
+D:\Programs\Homework1\HelloCSharp\DateTime\obj\Debug\DateTime.exe
+D:\Programs\Homework1\HelloCSharp\DateTime\obj\Debug\DateTime.pdb

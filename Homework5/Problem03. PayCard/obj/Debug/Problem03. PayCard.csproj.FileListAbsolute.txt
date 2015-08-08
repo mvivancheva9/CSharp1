@@ -1,0 +1,5 @@
+E:\Homework5\Problem03. PayCard\bin\Debug\Problem03.PayCard.exe.config
+E:\Homework5\Problem03. PayCard\bin\Debug\Problem03.PayCard.exe
+E:\Homework5\Problem03. PayCard\bin\Debug\Problem03.PayCard.pdb
+E:\Homework5\Problem03. PayCard\obj\Debug\Problem03.PayCard.exe
+E:\Homework5\Problem03. PayCard\obj\Debug\Problem03.PayCard.pdb

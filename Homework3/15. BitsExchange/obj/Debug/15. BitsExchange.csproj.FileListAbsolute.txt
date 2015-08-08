@@ -1,0 +1,5 @@
+E:\Homework3\15. BitsExchange\bin\Debug\_15.BitsExchange.exe.config
+E:\Homework3\15. BitsExchange\bin\Debug\_15.BitsExchange.exe
+E:\Homework3\15. BitsExchange\bin\Debug\_15.BitsExchange.pdb
+E:\Homework3\15. BitsExchange\obj\Debug\_15.BitsExchange.exe
+E:\Homework3\15. BitsExchange\obj\Debug\_15.BitsExchange.pdb

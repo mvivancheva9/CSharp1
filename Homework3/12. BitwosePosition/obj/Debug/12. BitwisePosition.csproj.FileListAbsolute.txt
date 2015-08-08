@@ -1,0 +1,5 @@
+E:\Homework3\12. BitwosePosition\bin\Debug\_12.BitwosePosition.exe.config
+E:\Homework3\12. BitwosePosition\bin\Debug\_12.BitwosePosition.exe
+E:\Homework3\12. BitwosePosition\bin\Debug\_12.BitwosePosition.pdb
+E:\Homework3\12. BitwosePosition\obj\Debug\_12.BitwosePosition.exe
+E:\Homework3\12. BitwosePosition\obj\Debug\_12.BitwosePosition.pdb

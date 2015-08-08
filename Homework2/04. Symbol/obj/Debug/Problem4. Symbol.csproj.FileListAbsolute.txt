@@ -1,0 +1,5 @@
+D:\Programs\Homeworks\Homework2\Problem4. Symbol\bin\Debug\Problem4.Symbol.exe.config
+D:\Programs\Homeworks\Homework2\Problem4. Symbol\bin\Debug\Problem4.Symbol.exe
+D:\Programs\Homeworks\Homework2\Problem4. Symbol\bin\Debug\Problem4.Symbol.pdb
+D:\Programs\Homeworks\Homework2\Problem4. Symbol\obj\Debug\Problem4.Symbol.exe
+D:\Programs\Homeworks\Homework2\Problem4. Symbol\obj\Debug\Problem4.Symbol.pdb
